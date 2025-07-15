@@ -1,0 +1,448 @@
+[
+  {
+    "id": "operario",
+    "title": "🥉 Ficha Oficial Operario AUTRA® – Rango Restrictivo",
+    "buttonText": "FICHA OPERARIO",
+    "content": [
+      {
+        "subtitle": "Rango Operario",
+        "items": [
+          "Evaluación requerida: Nota de evaluación cíclica inferior a 4 (1, 2 o 3)."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Principios Fundamentales",
+        "items": [
+          "<strong>Autonomía Cero:</strong> Ninguna acción o iniciativa autónoma permitida.",
+          "<strong>Control del Tiempo:</strong> Estricta gestión del tiempo bajo órdenes directas.",
+          "<strong>Ejecución Precisa:</strong> Seguir órdenes exactamente como indicadas."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Reglas Obligatorias del Operario",
+        "items": [
+          "Prohibido investigar o iniciar tareas sin autorización.",
+          "Comunicar inmediatamente ideas o inquietudes antes de actuar.",
+          "Ejecución exacta y sin cuestionamientos de instrucciones.",
+          "Uso obligatorio del canal grupal para toda consulta."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo al Operario",
+        "items": [
+          "«Durante tu etapa operaria, tu única función es ejecutar instrucciones. La autonomía es un privilegio que se recupera con resultados sostenidos y disciplina constante. Tu contribución debe siempre sumar al colectivo, nunca al protagonismo individual.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "directivo",
+    "title": "🥈 Ficha Oficial del Rango Directivo – AUTRA®",
+    "buttonText": "FICHA DIRECTIVO",
+    "content": [
+      {
+        "subtitle": "Objetivos Principales",
+        "items": [
+          "<strong>Coordinación Operativa:</strong> Supervisar tareas bajo autoridad del COO.",
+          "<strong>Aporte Estratégico Moderado:</strong> Propuestas aprobadas explícitamente por el COO.",
+          "<strong>Control de Calidad:</strong> Constante supervisión del trabajo operativo."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Responsabilidades Clave",
+        "items": [
+          "Supervisión Operativa: Coordinar y verificar cumplimiento de tareas.",
+          "Comunicación Transparente: Informar puntualmente al COO.",
+          "Propuestas Controladas: Toda iniciativa previa autorización del COO.",
+          "Evaluaciones Simples: Realizar evaluaciones intermedias cada ciclo.",
+          "Apoyo Supervisión: Documentación inmediata a requerimiento del COO."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Reglas Obligatorias del Directivo",
+        "items": [
+          "Comunicación Precisa: Instrucciones claras y validadas por COO.",
+          "Gestión del Tiempo: Estrictamente según planificación superior.",
+          "Restricción Autonomía: Ninguna tarea no aprobada explícitamente.",
+          "Respeto Jerárquico: Acatar indicaciones del COO sin cuestionamiento."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Ascenso y Descenso",
+        "items": [
+          "<strong>Ascenso COO:</strong> Mayor nota cíclica con mínimo 4.",
+          "<strong>Descenso Operario:</strong> Evaluación inferior a 4."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo al Directivo",
+        "items": [
+          "«Tu posición directiva define el rendimiento operativo. Cumple las normas y respeta la autoridad del COO. Disciplina, claridad y eficiencia son tus herramientas clave.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "coo",
+    "title": "🥇 Protocolo COO AUTRA® – Rango Ejecutivo",
+    "buttonText": "PROTOCOLO COO",
+    "content": [
+      {
+        "subtitle": "Principios Fundamentales del COO",
+        "items": [
+          "<strong>Responsabilidad Operativa:</strong> Máximo control sobre calidad y eficiencia.",
+          "<strong>Liderazgo por Resultados:</strong> Evaluación por resultados concretos.",
+          "<strong>Disciplina Absoluta:</strong> Cumplimiento riguroso de normas internas.",
+          "<strong>Anticipación Estratégica:</strong> Proactividad ante errores operativos."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Responsabilidades Clave",
+        "items": [
+          "Supervisión Continua: Control diario sobre directivos y operarios.",
+          "Evaluación Rigurosa: Evaluaciones constantes, corrección inmediata.",
+          "Gestión de Talento: Detección de mejora, aplicación de sanciones o reconocimientos.",
+          "Gestión del Tiempo: Supervisión sorpresa obligatoria cada ciclo.",
+          "Auditoría Permanente: Solicitud de informes sorpresivos.",
+          "Autoridad Ejecutiva: Aplicación estricta del protocolo operativo."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Reglas de Obligado Cumplimiento",
+        "items": [
+          "Anticiparse a errores.",
+          "Comunicación precisa en canal oficial.",
+          "Cero tolerancia a la ineficiencia.",
+          "Supervisión visible y constante.",
+          "Disciplina ante el ego personal."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Ascenso y Descenso",
+        "items": [
+          "<strong>Ascenso a COO BLACK:</strong> Mantener mínimo un mes consecutivo con desempeño sobresaliente.",
+          "<strong>Descenso Directivo:</strong> Evaluación inferior a 3."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo al COO",
+        "items": [
+          "«Tu rol es crítico: autoridad total sobre operaciones. Cada minuto perdido es tu responsabilidad. Exigimos resultados, no excusas. Tu gestión debe ser implacable y orientada a la perfección.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "coo-black",
+    "title": "🏅 COO Black – Rango Ejecutivo Élite",
+    "buttonText": "COO BLACK",
+    "content": [
+      {
+        "subtitle": "Diferencia Clave COO Black",
+        "items": [
+          "<strong>Autoridad Suprema:</strong> Máximo respeto y autoridad sobre todo protocolo.",
+          "<strong>Iniciativa Estratégica Total:</strong> Autonomía absoluta en decisiones estratégicas.",
+          "<strong>Visión Global y a Largo Plazo:</strong> Gestión integral de proyectos estratégicos y expansión corporativa."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Funciones COO Black",
+        "items": [
+          "Supervisión y Control Absoluto: Evaluaciones estratégicas sorpresa constantes.",
+          "Innovación Estratégica: Propuestas autónomas para mejorar eficiencia y rendimiento corporativo.",
+          "Coordinación Élite: Gestión directa con CEO y altos ejecutivos.",
+          "Auditoría Avanzada: Evaluaciones profundas sobre eficiencia y rendimiento a largo plazo."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Reglas Élite COO Black",
+        "items": [
+          "Comunicación Directa con CEO.",
+          "Decisiones Estratégicas Autónomas.",
+          "Manejo Absoluto del Tiempo Corporativo.",
+          "Máximo Compromiso y Responsabilidad Personal."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo al COO Black",
+        "items": [
+          "«Eres la élite de AUTRA®. Tu desempeño define nuestro éxito absoluto. Usa tu poder sabiamente: lidera con precisión, innovación y visión estratégica absoluta.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "rangos-avanzados",
+    "title": "🏴 Rangos Ejecutivos Avanzados",
+    "buttonText": "RANGOS AVANZADOS",
+    "content": [
+      {
+        "subtitle": "Rango Black",
+        "items": [
+          "<strong>Requisito:</strong> 1 mes consecutivo con resultados personales sobresalientes.",
+          "<strong>Enfoque:</strong> Grandes aportes personales altamente eficaces.",
+          "<strong>Distinción:</strong> Capacidad individual demostrada para lograr resultados excepcionales."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Rango White",
+        "items": [
+          "<strong>Requisito:</strong> 1 mes consecutivo con gestión impecable del personal.",
+          "<strong>Enfoque:</strong> Control exhaustivo y eficiente de equipos.",
+          "<strong>Distinción:</strong> Excelencia demostrable en gestión, coordinación y resultados colectivos."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Rango Beige",
+        "items": [
+          "<strong>Requisito:</strong> 6 meses consecutivos manteniendo el Rango White.",
+          "<strong>Enfoque:</strong> Fiabilidad absoluta y estabilidad operativa sostenida.",
+          "<strong>Distinción:</strong> Máxima confianza organizacional, solidez ejecutiva constante y sin fisuras."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Rango Blue",
+        "items": [
+          "<strong>Requisito:</strong> 6 meses consecutivos de aportes altamente eficientes.",
+          "<strong>Enfoque:</strong> Iniciativas y aportes estratégicos con resultados tangibles sin rellenos.",
+          "<strong>Distinción:</strong> Mantenimiento constante de un nivel excepcional de eficiencia y calidad en los aportes ejecutivos."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Rango Red",
+        "items": [
+          "<strong>Requisito:</strong> Aportes épicos demostrables, excelencia máxima, continua formación avanzada o aportes económicos extraordinarios.",
+          "<strong>Enfoque:</strong> Excelencia personal extrema, presión interna constante, resultados épicos.",
+          "<strong>Distinción:</strong> Nivel supremo de excelencia personal y organizacional, resultados inigualables y decisivos para la corporación."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo Final",
+        "items": [
+          "\"La jerarquía interna en 01-CORP refleja nuestro compromiso absoluto con la excelencia corporativa y personal. Cada rango es una muestra de tu valor estratégico, constancia y resultados efectivos. Tu posición define tu capacidad de impacto en la corporación.\"",
+          "Aplica disciplina absoluta. Persigue la excelencia. Supera cada nivel."
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "metodologia-autradigital",
+    "title": "📚 Metodología AutraDIGITAL",
+    "buttonText": "METODOLOGÍA AUTRADIGITAL",
+    "content": [
+      {
+        "subtitle": "Introducción",
+        "items": [
+          "AutraDIGITAL es un sistema de formación en vivo que integra clases en Zoom, visualización de PDFs con campos rellenables, herramientas de anotación interactivas, y persistencia de datos mediante MongoDB. Este sistema está diseñado para maximizar la eficiencia y el aprendizaje, alineándose con los estándares de excelencia de AUTRA®."
+        ],
+        "type": "paragraph"
+      },
+      {
+        "subtitle": "1. Autenticación y Acceso",
+        "items": [
+          "<strong>Login:</strong> Los usuarios acceden a través de login.html, ingresando un código de alumno único (studentCode) y una contraseña.",
+          "<strong>Backend:</strong> El servidor Express verifica las credenciales en MongoDB (colección 'users') usando bcrypt. Si es válido, almacena el studentCode en localStorage y redirige a index.html.",
+          "<strong>Seguridad:</strong> Sin studentCode en localStorage, el usuario es redirigido a login.html."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "2. Interfaz Principal",
+        "items": [
+          "<strong>Header:</strong> Muestra el logo de AUTRA®, el título 'Formación en Vivo', y un botón para cerrar sesión.",
+          "<strong>Panel Izquierdo:</strong> Contiene un iframe de Zoom para clases en vivo (URL: https://zoom.us/wc/join/88038634170).",
+          "<strong>Panel Derecho:</strong> Área para visualizar y anotar un PDF (test.pdf) con controles de navegación y herramientas de interacción.",
+          "<strong>Barra Flotante:</strong> Incluye herramientas para dibujar, resaltar, ajustar color/grosor, deshacer, limpiar, descargar, y ver miniaturas.",
+          "<strong>Diseño:</strong> Estilo glassmorphism con gradientes (#ABC8E9 a #8AB4F8), fuente Cinzel, y responsividad para móviles."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "3. Visualización y Navegación del PDF",
+        "items": [
+          "<strong>Carga:</strong> Al hacer clic en 'Comenzar', se carga test.pdf usando pdfjsLib en un canvas (595x842 px, A4).",
+          "<strong>Navegación:</strong> Botones para página anterior, siguiente, e ir a una página específica. Un modal de miniaturas permite navegar visualmente.",
+          "<strong>Campos Rellenables:</strong> Se detectan automáticamente y se almacenan en localStorage (autra_form_fields)."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "4. Herramientas de Anotación",
+        "items": [
+          "<strong>Capas:</strong> PDF base (z-index: 1), resaltados (z-index: 2), dibujo (z-index: 10), campos rellenables (z-index: 5).",
+          "<strong>Modos:</strong> Dibujo (pincel con color/grosor ajustable), resaltado (rectángulos amarillos semitransparentes), deshacer, y limpiar.",
+          "<strong>Persistencia:</strong> Anotaciones y resaltados se guardan en localStorage (autra_annotations, autra_highlights) y MongoDB (/api/save-page)."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "5. Descarga del PDF Anotado",
+        "items": [
+          "<strong>Función:</strong> Combina PDF, anotaciones, resaltados, y campos rellenables en un canvas, añadiendo una marca de agua (studentCode y fecha/hora).",
+          "<strong>Formato:</strong> Descarga la página actual como PNG (test_pagina_X.png)."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "6. Persistencia y Sincronización con MongoDB",
+        "items": [
+          "<strong>Guardado:</strong> Envía studentCode, página, campos rellenables, y anotaciones a MongoDB (colección pageData) vía /api/save-page.",
+          "<strong>Carga:</strong> Recupera datos desde MongoDB vía /api/load-page para restaurar anotaciones y campos."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "7. Características Adicionales",
+        "items": [
+          "<strong>Marca de Agua:</strong> Actualizada cada 5 segundos con studentCode y fecha/hora.",
+          "<strong>Responsividad:</strong> Diseño adaptado para pantallas < 768px.",
+          "<strong>Eventos:</strong> ResizeObserver asegura que el PDF se re-renderiza al cambiar el tamaño del contenedor."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "8. Flujo Completo del Usuario",
+        "items": [
+          "1. Ingresa credenciales en login.html.",
+          "2. Accede a index.html si las credenciales son válidas.",
+          "3. Visualiza la clase en vivo en Zoom (panel izquierdo).",
+          "4. Carga test.pdf, navega entre páginas, completa campos, dibuja, resalta, y guarda datos.",
+          "5. Descarga la página como PNG con anotaciones y marca de agua.",
+          "6. Cierra sesión para volver a login.html."
+        ],
+        "type": "ordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo",
+        "items": [
+          "«AutraDIGITAL refleja la excelencia operativa de AUTRA®. Cada interacción está diseñada para maximizar la eficiencia y el aprendizaje, alineándose con nuestra visión de disciplina y resultados sobresalientes.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "como-iniciar-sesion",
+    "title": "🔐 Cómo Iniciar Sesión en AutraDIGITAL (Formaciones)",
+    "buttonText": "LOGIN EN FORMACIONES",
+    "content": [
+      {
+        "subtitle": "Introducción",
+        "items": [
+          "El proceso de inicio de sesión en AutraDIGITAL garantiza un acceso seguro y eficiente al sistema de formación en vivo, asegurando que solo usuarios autorizados puedan interactuar con las herramientas de AUTRA®. Este procedimiento es el primer paso para alumnos, formadores y otros roles, alineado con los estándares de seguridad y excelencia de la corporación."
+        ],
+        "type": "paragraph"
+      },
+      {
+        "subtitle": "Pasos para Iniciar Sesión",
+        "items": [
+          "1. Accede a la página de inicio de sesión (login.html) a través del navegador.",
+          "2. Ingresa tu <strong>studentCode</strong> (código de alumno único, proporcionado por AUTRA®) en el campo correspondiente.",
+          "3. Introduce tu contraseña en el campo de contraseña.",
+          "4. Haz clic en el botón 'Iniciar Sesión' para enviar las credenciales.",
+          "5. Si las credenciales son válidas, serás redirigido a la interfaz principal (index.html), donde tu studentCode aparecerá en la esquina superior derecha."
+        ],
+        "type": "ordered"
+      },
+      {
+        "subtitle": "Proceso Técnico",
+        "items": [
+          "<strong>Validación:</strong> El servidor Express recibe las credenciales mediante una solicitud POST a /api/login y las verifica contra la colección 'users' en MongoDB, usando bcrypt para comparar la contraseña.",
+          "<strong>Almacenamiento:</strong> Si la autenticación es exitosa, el studentCode se guarda en localStorage para mantener la sesión activa.",
+          "<strong>Seguridad:</strong> Sin un studentCode válido en localStorage, el sistema redirige automáticamente a login.html, garantizando acceso restringido."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Solución de Problemas",
+        "items": [
+          "<strong>Credenciales Inválidas:</strong> Si recibes el mensaje 'Credenciales inválidas', verifica que el studentCode y la contraseña sean correctos. Contacta al soporte técnico si el problema persiste.",
+          "<strong>Error del Servidor:</strong> Si el sistema no responde, asegúrate de tener conexión a internet y reintenta. Si el error continúa, informa al equipo de soporte.",
+          "<strong>Redirección Inesperada:</strong> Si eres redirigido a login.html, verifica que no hayas cerrado sesión manualmente o que el studentCode esté almacenado en localStorage."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo",
+        "items": [
+          "«El inicio de sesión en AutraDIGITAL es la puerta de entrada a la excelencia formativa. Asegúrate de seguir cada paso con precisión para garantizar una experiencia operativa impecable, acorde con los estándares de AUTRA®.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  },
+  {
+    "id": "como-obtener-studentcode",
+    "title": "🔐 Cómo Obtener Tu StudentCode para AutraDIGITAL (Formaciones)",
+    "buttonText": "COMO OBTENER STUDENTCODE",
+    "content": [
+      {
+        "subtitle": "Introducción",
+        "items": [
+          "Aqui se explicara como obtener tu StudentCode."
+        ],
+        "type": "paragraph"
+      },
+      {
+        "subtitle": "Pasos para Obtener el StudentCode",
+        "items": [
+          "1. Contacta al equipo de soporte de AUTRA® a través del canal oficial designado.",
+          "2. Proporciona tu información personal verificable (nombre completo, correo electrónico registrado, y cualquier otro dato requerido).",
+          "3. Completa el proceso de registro o validación según las instrucciones del equipo.",
+          "4. Recibe tu StudentCode único por correo electrónico o en el canal oficial.",
+          "5. Usa tu StudentCode para iniciar sesión en AutraDIGITAL (login.html)."
+        ],
+        "type": "ordered"
+      },
+      {
+        "subtitle": "Requisitos",
+        "items": [
+          "<strong>Registro Previo:</strong> Debes estar inscrito en un programa de formación de AUTRA®.",
+          "<strong>Verificación:</strong> Tu identidad debe ser validada por el equipo administrativo.",
+          "<strong>Acceso al Canal Oficial:</strong> Usa los canales autorizados (correo, Discord, etc.) para solicitar tu StudentCode."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Solución de Problemas",
+        "items": [
+          "<strong>Retraso en la Entrega:</strong> Si no recibes tu StudentCode en el plazo indicado, verifica tu bandeja de spam o contacta nuevamente al soporte.",
+          "<strong>Datos Incorrectos:</strong> Asegúrate de proporcionar información precisa para evitar rechazos.",
+          "<strong>Soporte:</strong> Contacta al equipo de AUTRA® para cualquier duda o problema durante el proceso."
+        ],
+        "type": "unordered"
+      },
+      {
+        "subtitle": "Mensaje Corporativo",
+        "items": [
+          "«Tu StudentCode es tu llave de acceso a la excelencia formativa de AutraDIGITAL. Solicítalo con precisión y comienza tu camino hacia el éxito operativo con AUTRA®.»"
+        ],
+        "type": "paragraph"
+      }
+    ]
+  }
+]
